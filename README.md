@@ -1,2 +1,2 @@
-# lecture_spring_2020_2
-illustrative repo TU WIEN
+# Repo for learning
+illustrative repo TU WIEN (Summer 2020)
